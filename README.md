@@ -8,4 +8,8 @@ Final Exam - Genetic_Algorithm Graph
 
 y = 246x + 438
 
+
+
+단위는 그램(g) 을 사용하였습니다
+
 ![기말고사 그래프](https://user-images.githubusercontent.com/62889339/85838905-3696f000-b7d5-11ea-82ec-7c09bb206a23.png)
